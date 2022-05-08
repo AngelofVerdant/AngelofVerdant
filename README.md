@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Brian Kepha</h1>
-<h3 align="center">A worshipper of code from Nairobi Kenya</h3>
+<h1 align="left">Hi 👋, I'm Brian Kepha</h1>
+<h3 align="left">A worshipper of code from Nairobi Kenya</h3>
 
-
+<img align="center" alt="Coding" width="600" src="https://storage.googleapis.com/io-19-assets/images/global/hashtag.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelofverdant&label=Profile%20views&color=0e75b6&style=flat" alt="angelofverdant" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelofverdant" alt="angelofverdant" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/angelofverdant" target="blank"><img src="https://img.shields.io/twitter/follow/angelofverdant?logo=twitter&style=for-the-badge" alt="angelofverdant" /></a> </p>
 
