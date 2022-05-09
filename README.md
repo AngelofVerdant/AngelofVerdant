@@ -1,7 +1,6 @@
-<h1 align="left">Hi 👋, I'm Brian Kepha</h1>
+<h2 align="left">Hi 👋, I'm Brian Kepha</h2>
 <h3 align="left">A worshipper of code from Nairobi Kenya</h3>
 
-<img align="center" alt="Coding" width="600" src="https://storage.googleapis.com/io-19-assets/images/global/hashtag.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelofverdant&label=Profile%20views&color=0e75b6&style=flat" alt="angelofverdant" /> </p>
 
